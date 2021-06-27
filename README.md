@@ -5,7 +5,7 @@ The lane keeping system (LKS) is a key technique to Autonomous vehicles and play
 
 
 
-An ego vehicle that has a lane-keeping system must have a sensor, such as a camera. The sensor measures the relative yaw angle and lateral deviation between the centerline of a lane and the ego car and measures the current lane curvature and curvature derivative. The lane keeping system adjusts the front steering angle of the ego car to keep the ego car traveling along the centerline of the lanes on the road, and the goal for lane keeping control is to minimize both lateral deviation and relative yaw angle.
+An ego vehicle that has a lane-keeping system must have a sensor, such as a camera. The sensor measures the relative yaw angle and lateral deviation between the centerline of a lane and the ego car and measures the current lane curvature and curvature derivative. The lane keeping system adjusts the front steering angle of the ego car to keep the ego car traveling along the centerline of the lanes on the road, and the goal for this system is to minimize both lateral deviation and relative yaw angle.
 
 
 
